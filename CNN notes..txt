@@ -1,0 +1,10 @@
+look at activation
+look at weights: only sensible for the 1st layer that contact raw inputs
+t-SNE: a must tool to visualize data
+gabor-like filter fatigue
+occlusion experiments
+
+deepvis
+
+deconv-based visualizaiton  
+
